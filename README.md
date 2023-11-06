@@ -1,2 +1,2 @@
 # flask
-flask projects
+list flask projects
